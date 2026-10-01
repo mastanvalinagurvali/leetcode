@@ -16,9 +16,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/mastanvalinagurvali/leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/mastanvalinagurvali/leetcode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/mastanvalinagurvali/leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/mastanvalinagurvali/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/mastanvalinagurvali/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/mastanvalinagurvali/leetcode/tree/master/0198-house-robber) |
 ## Bit Manipulation
 |  |
@@ -28,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/mastanvalinagurvali/leetcode/tree/master/0051-n-queens) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/mastanvalinagurvali/leetcode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
