@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/mastanvalinagurvali/leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/mastanvalinagurvali/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mastanvalinagurvali/leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/mastanvalinagurvali/leetcode/tree/master/0051-n-queens) |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/mastanvalinagurvali/leetcode/tree/master/0060-permutation-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/mastanvalinagurvali/leetcode/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
