@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/mastanvalinagurvali/leetcode/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/mastanvalinagurvali/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/mastanvalinagurvali/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mastanvalinagurvali/leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/mastanvalinagurvali/leetcode/tree/master/0051-n-queens) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/mastanvalinagurvali/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/mastanvalinagurvali/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mastanvalinagurvali/leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/mastanvalinagurvali/leetcode/tree/master/0051-n-queens) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/mastanvalinagurvali/leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/mastanvalinagurvali/leetcode/tree/master/0051-n-queens) |
 ## String
 |  |
@@ -47,4 +50,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/mastanvalinagurvali/leetcode/tree/master/0031-next-permutation) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/mastanvalinagurvali/leetcode/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/mastanvalinagurvali/leetcode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/mastanvalinagurvali/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
