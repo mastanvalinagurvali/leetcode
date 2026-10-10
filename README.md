@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/mastanvalinagurvali/leetcode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/mastanvalinagurvali/leetcode/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/mastanvalinagurvali/leetcode/tree/master/0198-house-robber) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/mastanvalinagurvali/leetcode/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Backtracking
 |  |
 | ------- |
@@ -58,8 +59,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/mastanvalinagurvali/leetcode/tree/master/0037-sudoku-solver) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/mastanvalinagurvali/leetcode/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Dancing Links
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/mastanvalinagurvali/leetcode/tree/master/0037-sudoku-solver) |
+## Simulation
+|  |
+| ------- |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/mastanvalinagurvali/leetcode/tree/master/4052-cyclically-shift-rows-and-columns) |
 <!---LeetCode Topics End-->
